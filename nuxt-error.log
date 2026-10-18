@@ -1,0 +1,39 @@
+
+> navy-federal-page-recreation@1.0.0 dev
+> nuxt
+
+
+ WARN  [@nuxt/kit] requireModule is deprecated. Please use importModule instead.
+
+ℹ Using Tailwind CSS from ~/assets/css/tailwind.css
+
+ FATAL  Cannot read properties of undefined (reading 'map')
+
+    at getLayerDirectories (node_modules/@nuxt/kit/dist/index.mjs:2228:31)
+    at installModule (node_modules/@nuxt/kit/dist/index.mjs:2669:22)
+    at async setup (node_modules/@nuxtjs/tailwindcss/dist/module.mjs:186:7)
+    at async ModuleContainer.normalizedModule (node_modules/@nuxt/kit/dist/index.mjs:2137:17)
+    at async ModuleContainer.addModule (node_modules/@nuxt/core/dist/core.js:170:20)
+    at async ModuleContainer.ready (node_modules/@nuxt/core/dist/core.js:34:7)
+    at async Nuxt._init (node_modules/@nuxt/core/dist/core.js:347:5)
+
+
+ FATAL  Cannot read properties of undefined (reading 'map')
+
+    at getLayerDirectories (node_modules/@nuxt/kit/dist/index.mjs:2228:31)
+    at installModule (node_modules/@nuxt/kit/dist/index.mjs:2669:22)
+    at async setup (node_modules/@nuxtjs/tailwindcss/dist/module.mjs:186:7)
+    at async ModuleContainer.normalizedModule (node_modules/@nuxt/kit/dist/index.mjs:2137:17)
+    at async ModuleContainer.addModule (node_modules/@nuxt/core/dist/core.js:170:20)
+    at async ModuleContainer.ready (node_modules/@nuxt/core/dist/core.js:34:7)
+    at async Nuxt._init (node_modules/@nuxt/core/dist/core.js:347:5)
+
+
+   ╭────────────────────────────────────────────────────────────────────╮
+   │                                                                    │
+   │   ✖ Nuxt Fatal Error                                               │
+   │                                                                    │
+   │   TypeError: Cannot read properties of undefined (reading 'map')   │
+   │                                                                    │
+   ╰────────────────────────────────────────────────────────────────────╯
+

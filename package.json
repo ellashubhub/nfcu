@@ -1,0 +1,22 @@
+{
+  "name": "navy-federal-page-recreation",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "axios": "^1.20.0",
+    "core-js": "^3.37.1",
+    "nuxt": "2.18.1",
+    "ufo": "^1.6.4"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.6.1",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.17"
+  }
+}

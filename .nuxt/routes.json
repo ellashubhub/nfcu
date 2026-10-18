@@ -1,0 +1,16 @@
+[
+  {
+    "name": "signin",
+    "path": "/signin",
+    "component": "/Users/goodboy/Downloads/nav/pages/signin.vue",
+    "chunkName": "pages/signin",
+    "_name": "_5cda9c35"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/goodboy/Downloads/nav/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_fc4587e2"
+  }
+]
